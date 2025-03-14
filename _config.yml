@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xue Lingyan"
-description              : "I have three adorable cats: the eldest, DiDi, is a British Shorthair Blue, 4 years old; the second, ChouChou, is a French Blue, 1 year old; the youngest, DunDun, is a short-legged Golden Chinchilla, 5 months old. "
+description              : "Hobby: Play with three cute cats (DiDi, ChouChou, DunDun); music; Podcast."
 repository               : "XueLingyan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xue Lingyan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University of Posts & COmmunications"
+  bio              : "Nanjing University of Posts & Telecommunications, School of Computer Science "
   location         : "Nanjing, China"
   employer         :
   pubmed           : 

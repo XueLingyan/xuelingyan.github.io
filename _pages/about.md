@@ -33,5 +33,5 @@ My research interests include blockchain transaction privacy protection and iden
 - **[专著]** 区块链技术：聚焦金融应用，黄海平，**薛凌妍**，肖甫，电子工业出版社.
 
 # 📖 Educations
-- *2020.06 - 2025.04 (now)*, Nanjing University of Posts and Communications, Information Security. 
-- *2016.09 - 2020.06*, Nanjing University of Posts and Communications, Computer Science and Technology.
+- *2020.06 - 2025.04 (now)*, Nanjing University of Posts and TeleCommunications, Information Security. 
+- *2016.09 - 2020.06*, Nanjing University of Posts and TeleCommunications, Computer Science and Technology.
